@@ -8,7 +8,7 @@ The simulated disk has 100 blocks. Each block holds 512 bytes. Blocks 0 through 
 Each file is one block long. Inside each file block, bytes 0 through 31 store the file name, and bytes 32 through 511 store the file data.
 
 ## Team Members' Roles and Responsibilities
-- Philip Conley: Completed the entire project individually, including coding, testing, documentation, slides, concept map, and video demonstration.
+- Philip Conley: Completed the entire project individually, including coding, testing, documentation, slides, concept map, and video demonstration. Due to four years of military experience where I have successfully led multiple soldiers, I have confidence in my ability to work with others. Therefore, I have chosen to do this final project individually. 
 
 ## Division of Work and Collaborative Experience
 This project was completed individually. I did not work with teammates or collaborators.
